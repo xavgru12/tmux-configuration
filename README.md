@@ -31,7 +31,7 @@ cd ~/.config/tmux
 tmux source tmux.conf
 ```
 
-Since the configuration is sourced, the prefix is ctrl + space
+Since the configuration is sourced, the **prefix is ctrl + space**
 
 exit tmux with:
 
