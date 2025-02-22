@@ -54,19 +54,24 @@ prefix + d
 
 - enter tmux and create a shell on right side:
 
-prefix + %
+    prefix + %
 
 - create a shell below:
 
-prefix + "
+    prefix + "
+
+- delete current shell with:
+
+    prefix + x and confirm with y
+
 
 - switch  between the two consoles by:
 
-ctrl + h and ctrl + l
+    ctrl + h and ctrl + l
 
 - enter copy mode:
 
-prefix + [
+    prefix + [
 
 - use vim motions( h j k l) to navigate in copy mode
 
@@ -83,4 +88,4 @@ saved in clipboard and can be used anywhere with ctrl c.
 
 - Paste text in console with:
 
-ctrl + shift + v
+    ctrl + shift + v
