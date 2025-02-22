@@ -46,7 +46,7 @@ have the tmux package manager install the packages with:
 
 prefix + shift + I
 
-leave tmux one last time with
+leave tmux one last time with:
 
 prefix + d
 
