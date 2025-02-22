@@ -79,7 +79,7 @@ saved in clipboard and can be used anywhere with ctrl c.
 
 - text can also be copied by marking it with the cursor, not needed to ctrl c or anthing
 
-- scroll back the terminal with mouse wheel also works which basically enters copy mode
+- scroll back the terminal with mouse wheel works which basically enters copy mode
 
 - Paste text in console with:
 
