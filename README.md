@@ -50,7 +50,7 @@ leave tmux one last time with:
 
 prefix + d
 
-# Test functionality
+# test functionality
 
 - enter tmux and create a shell on right side:
 
