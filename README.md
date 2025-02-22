@@ -46,6 +46,10 @@ have the tmux package manager install the packages with:
 
 prefix + shift + I
 
+leave tmux one last time with
+
+prefix + d
+
 # Test functionality
 
 - enter tmux and create a shell on right side:
