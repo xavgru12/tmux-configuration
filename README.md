@@ -17,11 +17,6 @@ install tmux package manager
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 
-enter in console:
-```
-cd ~/.config/tmux
-```
-
 open tmux and source tmux configuration
 
 ```
